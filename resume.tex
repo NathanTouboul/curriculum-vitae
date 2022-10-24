@@ -1,0 +1,65 @@
+\documentclass[]{article}
+\usepackage[utf8]{inputenc}
+\usepackage{url}
+\usepackage{ragged2e}
+\usepackage[parfill]{parskip}
+
+
+%====================
+
+\usepackage{sections/TLCresume}
+%====================
+% CONTACT INFORMATION
+%====================
+% \author{Nathan Touboul} % Name Here
+% \def\phone{(872) 233 - 9671}
+% \def\city{San Diego, CA}
+% \def\email{nathantouboul97@gmail.com}
+% \def\porfolio{nathantouboul.com} 
+% \def\LinkedIn{nathantouboul} 
+% \def\github{NathanTouboul} % github username
+% %\def\qrc{\includegraphics[scale=1]{Images/qr_code_linkedin.png}~\\[0,2 cm]}
+% \def\role{Software Engineer} % JOB TITLE
+
+\begin{document}
+
+\setmobile{(872) 233 9671}
+\setmail{nathantouboul97@gmail.com}
+\setlinkedin{https://www.linkedin.com/in/nathantouboul/}
+\setgithub{https://github.com/NathanTouboul}
+\setblog{https://nathantouboul.com/}
+
+\centering {\huge Nathan Touboul} 
+\cvtitle{Software Engineer}	
+
+\justifying
+\setlength{\parskip}{0em}
+\setlength{\parindent}{0em}
+\normalsize 
+
+% \import{sections/}{_header}
+%\import{sections/}{objective}
+
+\section{Skills}
+\import{sections/}{skills}
+
+
+\section{Experience}
+\import{sections/}{experience}
+
+\vspace{1.5ex}
+
+\section{Projects}
+\import{sections/}{projects}
+
+\vspace{1.5ex}
+
+\section{Education}
+\import{sections/}{education}
+
+
+\section{Activities}
+\import{sections/}{activities}
+
+
+\end{document}

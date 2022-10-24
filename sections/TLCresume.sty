@@ -1,0 +1,103 @@
+\NeedsTeXFormat{LaTeX2e}
+\ProvidesPackage{TLCresume}[11/19/21 resume package]
+
+\RequirePackage{color}
+\definecolor{hblue}{RGB}{61, 90, 128}
+
+% Assuming using "article" document class and letter sized paper.
+% FONT STUFF
+
+\RequirePackage[T1]{fontenc} %  Font encoding https://texfaq.org/FAQ-why-inp-font
+\RequirePackage[default,semibold]{sourcesanspro}
+\RequirePackage[10pt]{moresize}
+\usepackage{anyfontsize}
+\RequirePackage{csquotes}
+\RequirePackage{fontawesome5, moresize}		% Fonts
+
+% SUPPORTING FUNCTIONS
+\def\hrulefill{\leavevmode\leaders\hrule height 1.4pt\hfill\kern\z@}
+\def\firstLetter#1#2@{#1}
+\def\secondLetter#1#2@{#2}
+\newcommand\tab[1][.9cm]{\hspace*{#1}}
+\newcommand{\cvContactSpace}{\quad\textcolor{black}{|}\quad}
+\newcommand{\cvContactSep}{\textcolor{red}{\textbf{|}} }
+
+%	SETTING UP INFO
+\newcommand*{\setname}[2]{\def\@firstname{#1}\def\@lastname{#2}}
+\newcommand*{\setaddress}[1]{\def\@address{#1}}
+\newcommand*{\setmobile}[1]{\def\@mobile{#1}}
+\newcommand*{\setposition}[1]{\def\@position{#1}}
+\newcommand*{\setmail}[1]{\def\@mail{#1}}
+\newcommand*{\setlinkedin}[1]{\def\@linkedin{#1}}
+\newcommand*{\setgithub}[1]{\def\@github{#1}}
+\newcommand*{\setblog}[1]{\def\@blog{#1}}
+
+%	CV TITLE
+\newcommand{\cvtitle}[1]{
+	\begin{center}
+% 		{\fontsize{24}{0}\selectfont
+% 			\texttt{\@firstname \ {\color{black}{\@lastname}} }
+% % 			\textcolor{red}{\cvContactSep \textbf{#1}}
+%         }
+			% \\
+		{\fontsize{12}{0}\selectfont
+			\textcolor{black}{\faIcon{envelope} \@mail}
+			\cvContactSpace \href{\@github}{\faIcon{github} GitHub}
+			\cvContactSpace \href{\@linkedin}{\faIcon{linkedin} LinkedIn}
+			\cvContactSpace \href{\@blog}{\faIcon{globe} Portfolio}
+			\cvContactSpace \textcolor{black}{\faIcon{phone} \@mobile}
+			% \\~{\Large \\~\\}
+            
+        }
+			
+	\end{center}
+}
+
+% MARGINS AND SPACING
+\RequirePackage[margin=.3in, top=.3in]{geometry} % Set Margins
+\raggedright % left align no indent
+\raggedbottom % top align no indent
+
+% COLOR
+\RequirePackage{xcolor}
+\definecolor{highlight}{RGB}{61, 90, 128} % CHANGE THIS TO YOUR FAV COLOR https://g.co/kgs/aoqdi7
+
+% LINKS
+\RequirePackage{hyperref}
+\hypersetup{colorlinks=true,urlcolor=highlight}
+
+% BULLET POINTS
+\RequirePackage[inline]{enumitem}
+\setlength{\tabcolsep}{0in}
+
+% SECTION FORMATTING 
+\RequirePackage[nostruts]{titlesec}
+\titlespacing*{\section}{0em}{0.5em}{0em}
+\titleformat{\section}{\color{highlight} \scshape \raggedright \large}{}{0em}{}[\vspace{-0.75em}\hrulefill]
+
+% SUBSECTION FORMATTING
+\titlespacing*{\subsection}{0em}{0em}{0em}
+\titleformat{\subsection}{\bfseries}{}{0em}{}[]
+
+% BOLD COMMAND
+\newcommand{\skills}[1]{ {\bfseries #1}}
+
+% SUBTEXT
+\newcommand{\subtext}[1]{\textit{#1}\par\vspace{-.75em}}
+
+% tighter spacing than itemize
+\setlist[itemize]{align=parleft,left=0pt..1em}
+\newenvironment{zitemize}{
+\begin{itemize} \itemsep 0pt \parskip 0pt \parsep 1pt}
+{\end{itemize}\vspace{-.5em}}
+
+% NO PAGE NUMBER
+\pagenumbering{gobble}
+
+% SUBFILES IMPORTING
+\RequirePackage{standalone}
+\RequirePackage{import}
+
+% FOR TEMPLATE FILLER
+\RequirePackage[english]{babel}
+\RequirePackage{blindtext}% Filler Text
