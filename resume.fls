@@ -1,6 +1,6 @@
-PWD d:\Programming\Resume\curriculum-vitae
+PWD d:\Programming\curriculum-vitae
 INPUT C:\Users\natha\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT d:\Programming\Resume\curriculum-vitae\resume.tex
+INPUT d:\Programming\curriculum-vitae\resume.tex
 OUTPUT resume.log
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls

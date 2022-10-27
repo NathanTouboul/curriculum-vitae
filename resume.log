@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.2)  23 OCT 2022 17:19
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.2)  27 OCT 2022 16:52
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Programming/Resume/curriculum-vitae/resume.tex
-(d:/Programming/Resume/curriculum-vitae/resume.tex
+**d:/Programming/curriculum-vitae/resume.tex
+(d:/Programming/curriculum-vitae/resume.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-08-23> (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
@@ -747,18 +747,18 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 
 {C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: DC9CFA2F7B60AA1202881E161B0138CB;5147.
+(rerunfilecheck)             Checksum: D30B4E286DED9DE95A4F56C99903BFDD;5203.
  ) 
 Here is how much of TeX's memory you used:
  17788 strings out of 477843
- 320711 string characters out of 2823600
+ 320599 string characters out of 2823600
  644051 words of memory out of 3000000
  36377 multiletter control sequences out of 15000+600000
  583900 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,8n,134p,1234b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 140i,8n,134p,1227b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}<C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 278941 bytes).
+Output written on resume.pdf (1 page, 279007 bytes).
 PDF statistics:
  138 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
