@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1666914748 "d:/Programming/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1666914751
+["pdflatex"] 1666915040 "d:/Programming/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1666915043
   "C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1666472501 161703 3556a13c17bf8612ec1d0ed0997c0630 ""
   "C:/Users/natha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1662176971 10374549 5c2c3401b7b98f42de03aa44100ed0af ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -143,14 +143,14 @@
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "d:/Programming/curriculum-vitae/resume.tex" 1666570549 1349 a22e15b62fb9c971518695493574bb1f ""
-  "resume.aux" 1666914750 3309 b889fca11e1171a76dfb2542451fdcdf "pdflatex"
-  "resume.out" 1666914750 5203 d30b4e286ded9de95a4f56c99903bfdd "pdflatex"
-  "resume.tex" 1666570549 1349 a22e15b62fb9c971518695493574bb1f ""
+  "d:/Programming/curriculum-vitae/resume.tex" 1666914863 1349 a22e15b62fb9c971518695493574bb1f ""
+  "resume.aux" 1666915042 3319 3e24080f7fa54ae659d13a2efba09fa3 "pdflatex"
+  "resume.out" 1666915042 5256 13a0fe200c54179e97ed1dcdb4c51ba7 "pdflatex"
+  "resume.tex" 1666914863 1349 a22e15b62fb9c971518695493574bb1f ""
   "sections/TLCresume.sty" 1666570549 3099 f8b8d8d00e960f204146935d3f98bb30 ""
   "sections/activities.tex" 1666570549 293 c81030322ed37c2ba8a211929943747e ""
   "sections/education.tex" 1666570549 1075 89c00f1253efdfeee6332516199d761f ""
-  "sections/experience.tex" 1666914732 2222 0674711bbb9f5e381544f1c7843e514e ""
+  "sections/experience.tex" 1666915029 2232 ed865c0e2c2e5524a2a25f9d23b606b3 ""
   "sections/projects.tex" 1666570549 2173 1adceebf2cccfc60b891ca46f9928fc8 ""
   "sections/skills.tex" 1666570549 458 edce6b6e0348bb969018a64404c64459 ""
   (generated)
