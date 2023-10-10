@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.8.28) (preloaded format=pdflatex 2022.9.2)  27 OCT 2022 16:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.28)  9 OCT 2023 17:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**d:/Programming/curriculum-vitae/resume.tex
-(d:/Programming/curriculum-vitae/resume.tex
-LaTeX2e <2022-06-01> patch level 5
-L3 programming layer <2022-08-23> (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+**c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex
+(c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-24> (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
-File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,9 +19,9 @@ File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
 Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@prehook=\toks16
@@ -30,21 +30,21 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged2e.sty
-Package: ragged2e 2021/12/15 v3.1 ragged2e Package
-\CenteringLeftskip=\skip49
-\RaggedLeftLeftskip=\skip50
-\RaggedRightLeftskip=\skip51
-\CenteringRightskip=\skip52
-\RaggedLeftRightskip=\skip53
-\RaggedRightRightskip=\skip54
-\CenteringParfillskip=\skip55
-\RaggedLeftParfillskip=\skip56
-\RaggedRightParfillskip=\skip57
-\JustifyingParfillskip=\skip58
-\CenteringParindent=\skip59
-\RaggedLeftParindent=\skip60
-\RaggedRightParindent=\skip61
-\JustifyingParindent=\skip62
+Package: ragged2e 2022/11/13 v3.2 ragged2e Package
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/parskip\parskip.sty
 Package: parskip 2021-03-14 v2.0h non-zero parskip adjustments
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
@@ -54,8 +54,8 @@ Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
 \KV@toks@=\toks18
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
 Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
-) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 )) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
 \etb@tempcnta=\count193
@@ -72,8 +72,8 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 149.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
-File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
-) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\sourcesanspro.sty
 Package: sourcesanspro 2018/05/19 v2.7 Adobe's Source Sans Pro typeface
@@ -229,7 +229,7 @@ Package: moresize 1999/07/26 v1.9 (more font sizes)
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/anyfontsize\anyfontsize.sty
 Package: anyfontsize 2007/11/22 anyfontsize.sty by pts
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
-Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
 \csq@reset=\count195
 \csq@gtype=\count196
 \csq@glevel=\count197
@@ -238,24 +238,24 @@ Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 \csq@tshold=\count266
 \csq@ltx@everypar=\toks21
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
-File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+File: csquotes.def 2022-09-14 v5.2n csquotes generic definitions (JAW)
 )
 Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
 Package csquotes Info: ... configuration file loaded successfully.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
 File: csquotes.cfg 
 )) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5.sty (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
-Package: expl3 2022-08-23 L3 programming layer (loader) 
+Package: expl3 2023-01-24 L3 programming layer (loader) 
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-08-23 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count267
 \l__pdf_internal_box=\box51
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3keys2e.sty
-Package: l3keys2e 2022-06-22 LaTeX2e option processing using LaTeX3 keys
+Package: l3keys2e 2023-01-16 LaTeX2e option processing using LaTeX3 keys
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xparse.sty
-Package: xparse 2022-06-22 L3 Experimental document command parser
+Package: xparse 2023-01-16 L3 Experimental document command parser
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-generic-helper.sty
 Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fontawesome5
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesome5-mapping.def))) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
@@ -266,14 +266,14 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@cnth=\count268
 \Gm@cntv=\count269
 \c@Gm@tempcnt=\count270
-\Gm@bindingoffset=\dimen139
-\Gm@wd@mp=\dimen140
-\Gm@odd@mp=\dimen141
-\Gm@even@mp=\dimen142
-\Gm@layoutwidth=\dimen143
-\Gm@layoutheight=\dimen144
-\Gm@layouthoffset=\dimen145
-\Gm@layoutvoffset=\dimen146
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
 \Gm@dimlist=\toks22
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
@@ -282,7 +282,7 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package xcolor Info: Driver file: pdftex.def on input line 227.
 LaTeX Info: Redefining \color on input line 711.
- (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex-dev/graphics\mathcolor.ltx)
+ (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
 Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
 Package xcolor Info: Model `RGB' extended on input line 1369.
@@ -293,7 +293,7 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
-Package: hyperref 2022-06-20 v7.00s Hypertext links for LaTeX
+Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
 Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
@@ -321,11 +321,11 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count271
 )
-\@linkdim=\dimen147
+\@linkdim=\dimen149
 \Hy@linkcounter=\count272
 \Hy@pagecounter=\count273
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
-File: pd1enc.def 2022-06-20 v7.00s Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
@@ -335,7 +335,7 @@ Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
 \Hy@SavedSpaceFactor=\count274
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
-File: puenc.def 2022-06-20 v7.00s Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
@@ -345,25 +345,25 @@ Package hyperref Info: Hyper index ON on input line 4170.
 Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4408.
+Package hyperref Info: Bookmarks ON on input line 4410.
 \c@Hy@tempcnt=\count275
-LaTeX Info: Redefining \url on input line 4746.
-\XeTeXLinkMargin=\dimen148
+LaTeX Info: Redefining \url on input line 4748.
+\XeTeXLinkMargin=\dimen150
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
 \Fld@menulength=\count276
-\Field@Width=\dimen149
-\Fld@charsize=\dimen150
-Package hyperref Info: Hyper figures OFF on input line 6024.
-Package hyperref Info: Link nesting OFF on input line 6029.
-Package hyperref Info: Hyper index ON on input line 6032.
-Package hyperref Info: backreferencing OFF on input line 6039.
-Package hyperref Info: Link coloring OFF on input line 6044.
-Package hyperref Info: Link coloring with OCG OFF on input line 6049.
-Package hyperref Info: PDF/A mode OFF on input line 6054.
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6027.
+Package hyperref Info: Link nesting OFF on input line 6032.
+Package hyperref Info: Hyper index ON on input line 6035.
+Package hyperref Info: backreferencing OFF on input line 6042.
+Package hyperref Info: Link coloring OFF on input line 6047.
+Package hyperref Info: Link coloring with OCG OFF on input line 6052.
+Package hyperref Info: PDF/A mode OFF on input line 6057.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
@@ -374,7 +374,7 @@ package with kernel methods
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
-File: hpdftex.def 2022-06-20 v7.00s Hyperref driver for pdfTeX
+File: hpdftex.def 2022-11-13 v7.00u Hyperref driver for pdfTeX
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
@@ -388,13 +388,13 @@ Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
 )
-\Hy@SectionHShift=\skip63
+\Hy@SectionHShift=\skip64
 )
 Package hyperref Info: Option `colorlinks' set `true' on input line 67.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
 Package: enumitem 2019/06/20 v3.9 Customized lists
-\labelindent=\skip64
-\enit@outerparindent=\dimen151
+\labelindent=\skip65
+\enit@outerparindent=\dimen153
 \enit@toks=\toks23
 \enit@inbox=\box52
 \enit@count@id=\count282
@@ -402,25 +402,25 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
 \ttl@box=\box53
-\beforetitleunit=\skip65
-\aftertitleunit=\skip66
-\ttl@plus=\dimen152
-\ttl@minus=\dimen153
+\beforetitleunit=\skip66
+\aftertitleunit=\skip67
+\ttl@plus=\dimen154
+\ttl@minus=\dimen155
 \ttl@toksa=\toks24
-\titlewidth=\dimen154
-\titlewidthlast=\dimen155
-\titlewidthfirst=\dimen156
+\titlewidth=\dimen156
+\titlewidthlast=\dimen157
+\titlewidthfirst=\dimen158
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/standalone\standalone.sty
-Package: standalone 2018/03/26 v1.3a Package to include TeX sub-files with preambles
+Package: standalone 2022/10/10 v1.3b Package to include TeX sub-files with preambles
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/tools\shellesc.sty
 Package: shellesc 2019/11/08 v1.0c unified shell escape interface for LaTeX
 Package shellesc Info: Restricted shell escape enabled on input line 77.
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/currfile\currfile.sty
 Package: currfile 2020/09/29 v0.7d Provides the file path elements of the current input file
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook.sty
-Package: filehook 2020/09/29 v0.8a Hooks for input files
+Package: filehook 2022/10/25 v0.8b Hooks for input files
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/filehook\filehook-2020.sty
-Package: filehook-2020 2020/09/29 v0.8a Hooks for input files
+Package: filehook-2020 2022/10/25 v0.8b Hooks for input files
 ))
 \c@currfiledepth=\count284
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/gincltex\gincltex.sty (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/svn-prov\svn-prov.sty
@@ -428,7 +428,7 @@ Package: svn-prov 2010/04/24 v3.1862 Package Date/Version from SVN Keywords
 )
 Package: gincltex 2011/09/04 v0.3 Include external LaTeX files like graphics
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjustbox.sty
-Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjcalc.sty
 Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back-ends (calc, etex, pgfmath)
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimclip.sty
@@ -444,37 +444,37 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 107.
 )
-\Gin@req@height=\dimen157
-\Gin@req@width=\dimen158
+\Gin@req@height=\dimen159
+\Gin@req@width=\dimen160
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\collectbox.sty
-Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
 \collectedbox=\box54
 )
-\tc@llx=\dimen159
-\tc@lly=\dimen160
-\tc@urx=\dimen161
-\tc@ury=\dimen162
+\tc@llx=\dimen161
+\tc@lly=\dimen162
+\tc@urx=\dimen163
+\tc@ury=\dimen164
 Package trimclip Info: Using driver 'tc-pdftex.def'.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pdftex.def
 File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
 ))
-\adjbox@Width=\dimen163
-\adjbox@Height=\dimen164
-\adjbox@Depth=\dimen165
-\adjbox@Totalheight=\dimen166
-\adjbox@pwidth=\dimen167
-\adjbox@pheight=\dimen168
-\adjbox@pdepth=\dimen169
-\adjbox@ptotalheight=\dimen170
+\adjbox@Width=\dimen165
+\adjbox@Height=\dimen166
+\adjbox@Depth=\dimen167
+\adjbox@Totalheight=\dimen168
+\adjbox@pwidth=\dimen169
+\adjbox@pheight=\dimen170
+\adjbox@pdepth=\dimen171
+\adjbox@ptotalheight=\dimen172
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifoddpage.sty
-Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
 \c@checkoddpage=\count285
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box55
 \sift@deathcycles=\count286
-\@vwid@loff=\dimen171
-\@vwid@roff=\dimen172
+\@vwid@loff=\dimen173
+\@vwid@roff=\dimen174
 ))
 \gincltex@box=\box56
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/filemod\filemod-expmin.sty
@@ -482,9 +482,9 @@ Package: filemod-expmin 2011/09/19 v1.2 Get and compare file modification times 
 )) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/import\import.sty
 Package: import 2020/04/01  v 6.2
 ) (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
-Package: babel 2022/07/20 3.78 The Babel package
+Package: babel 2022/01/23 3.85 The Babel package
 \babel@savecnt=\count287
-\U@D=\dimen173
+\U@D=\dimen175
 \l@unhyphenated=\language79
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
 \bbl@readstream=\read2
@@ -572,13 +572,13 @@ LaTeX Font Info:    ... okay on input line 24.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count307
-\scratchdimen=\dimen174
+\scratchdimen=\dimen176
 \scratchbox=\box57
 \nofMPsegments=\count308
 \nofMParguments=\count309
 \everyMPshowfont=\toks25
 \MPscratchCnt=\count310
-\MPscratchDim=\dimen175
+\MPscratchDim=\dimen177
 \MPnumerator=\count311
 \makeMPintoPDFobject=\count312
 \everyMPtoPDFconversion=\toks26
@@ -653,18 +653,18 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
 (Font)              scaled to size 12.0pt on input line 43.
  (sections/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 4.
+(Font)              <7> on input line 8.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 4.
+(Font)              <5> on input line 8.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 7.
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
-(Font)              scaled to size 10.0pt on input line 7.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 7.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 10.0pt on input line 7.
+(Font)              scaled to size 10.0pt on input line 10.
 ) (sections/experience.tex
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 8.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 12.0pt on input line 8.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 8.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
@@ -674,93 +674,67 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 8.
 
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 9.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
-(Font)              scaled to size 9.0pt on input line 9.
-LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 15.
+LaTeX Font Info:    Trying to load font information for TS1+SourceSansPro-TLF on input line 11.
 (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/sourcesanspro\ts1sourcesanspro-tlf.fd
 File: TS1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for TS1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 15.
+(Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 11.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 15.
+(Font)              scaled to size 10.0pt on input line 11.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 7.0pt on input line 14.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 23.
 
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 31.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
-(Font)              scaled to size 10.0pt on input line 31.
-) (sections/projects.tex
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 7.
+(hyperref)                removing `\hfill' on input line 34.
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 12--15
+) (sections/projects.tex
+Underfull \hbox (badness 10000) in paragraph at lines 8--11
 
  []
 
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 17.
-
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 15.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
+(Font)              scaled to size 10.0pt on input line 15.
 ) (sections/education.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 7.
-
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 9.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 9.0pt on input line 9.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/it' on input line 10.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/it' will be
+(Font)              scaled to size 9.0pt on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
 (Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
 (Font)              scaled to size 9.0pt on input line 10.
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 15.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 23.
-
-) (sections/activities.tex
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 3.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 6.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\hfill' on input line 9.
-
 ) [1
 
 {C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: 13A0FE200C54179E97ED1DCDB4C51BA7;5256.
+(rerunfilecheck)             Checksum: 35AFA67AB3A5670FCC7A0A2B4A2ECE62;4268.
  ) 
 Here is how much of TeX's memory you used:
- 17788 strings out of 477843
- 320599 string characters out of 2823600
- 644051 words of memory out of 3000000
- 36377 multiletter control sequences out of 15000+600000
- 583900 words of font info for 56 fonts, out of 8000000 for 9000
+ 17800 strings out of 476378
+ 321560 string characters out of 2789004
+ 1884299 words of memory out of 3000000
+ 37857 multiletter control sequences out of 15000+600000
+ 638063 words of font info for 62 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,8n,134p,1227b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 140i,8n,134p,1271b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}<C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 279075 bytes).
+Output written on resume.pdf (1 page, 276328 bytes).
 PDF statistics:
- 138 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 129 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 126 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
+ 105 words of extra memory for PDF output out of 10000 (max. 10000000)
 
