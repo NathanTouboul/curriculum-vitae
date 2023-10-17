@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.28)  10 OCT 2023 13:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.28)  17 OCT 2023 09:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -631,26 +631,30 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 32.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 20.74pt on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 32.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
+(Font)              scaled to size 20.74pt on input line 32.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 33.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 34.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 12.0pt on input line 33.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 33.
+(Font)              scaled to size 12.0pt on input line 34.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 34.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 33.
+LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on input line 34.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <12> not available
-(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 33.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 33.
+(Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead on input line 34.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 34.
  (C:\Users\natha\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 43.
+(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 44.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
-(Font)              scaled to size 10.0pt on input line 43.
+(Font)              scaled to size 10.0pt on input line 44.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/sc' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 43.
+(Font)              `T1/SourceSansPro-TLF/regular/sc' on input line 44.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/sc' will be
-(Font)              scaled to size 12.0pt on input line 43.
+(Font)              scaled to size 12.0pt on input line 44.
  (sections/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 8.
@@ -682,9 +686,9 @@ LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `TS1/SourceSansPro-TLF/regular/n' on input line 11.
 LaTeX Font Info:    Font shape `TS1/SourceSansPro-TLF/regular/n' will be
 (Font)              scaled to size 10.0pt on input line 11.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 14.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/n' on input line 14.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/n' will be
 (Font)              scaled to size 7.0pt on input line 14.
 
 
@@ -724,15 +728,15 @@ Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: 35AFA67AB3A5670FCC7A0A2B4A2ECE62;4268.
  ) 
 Here is how much of TeX's memory you used:
- 17800 strings out of 476378
- 321560 string characters out of 2789004
- 1884299 words of memory out of 3000000
- 37857 multiletter control sequences out of 15000+600000
- 638063 words of font info for 62 fonts, out of 8000000 for 9000
+ 17803 strings out of 476378
+ 321666 string characters out of 2789004
+ 1886299 words of memory out of 3000000
+ 37859 multiletter control sequences out of 15000+600000
+ 648140 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  140i,8n,134p,1271b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}<C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 276347 bytes).
+Output written on resume.pdf (1 page, 276540 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)

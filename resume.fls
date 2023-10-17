@@ -993,6 +993,7 @@ INPUT .\resume.out
 INPUT .\resume.out
 OUTPUT resume.out
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\fontawesome5\ufontawesomefree1.fd
@@ -1036,7 +1037,7 @@ INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1so
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1.tfm
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.tfm
 INPUT .\sections\projects.tex
 INPUT .\sections\projects.tex
 INPUT .\sections\projects.tex
@@ -1057,9 +1058,11 @@ INPUT sections\education.tex
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.vf
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
+INPUT C:\Users\natha\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
-INPUT C:\Users\natha\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-sc-t1.vf
@@ -1074,8 +1077,8 @@ INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1--base.tfm
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.vf
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1--base.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.vf
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.vf
