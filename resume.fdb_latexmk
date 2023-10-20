@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1697560316 "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1697560320 0
+["pdflatex"] 1697823921 "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1697823924 0
   "C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674949620 161703 3556a13c17bf8612ec1d0ed0997c0630 ""
   "C:/Users/natha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674949570 23173809 a5fcca6a781e29d61e383ef5fa826ec0 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651500229 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -143,15 +143,15 @@
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656236919 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
-  "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" 1697560316 1373 afdb0995c19dfbb76d73a22a3a6c6d7a ""
-  "resume.aux" 1697560319 2796 458459651067e530c552c146f692d99e "pdflatex"
-  "resume.out" 1697560319 4268 35afa67ab3a5670fcc7a0a2b4a2ece62 "pdflatex"
-  "resume.tex" 1697560316 1373 afdb0995c19dfbb76d73a22a3a6c6d7a ""
+  "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" 1697823394 1369 add2f39e3bcfac339be22bb07322f904 ""
+  "resume.aux" 1697823923 2724 c8f05333979aa2d10d2e86dd157afafe "pdflatex"
+  "resume.out" 1697823923 3851 260b3649910b863402c8987dfe9cfefb "pdflatex"
+  "resume.tex" 1697823394 1369 add2f39e3bcfac339be22bb07322f904 ""
   "sections/TLCresume.sty" 1666570549 3099 f8b8d8d00e960f204146935d3f98bb30 ""
   "sections/education.tex" 1696878759 960 bfb739edbf5c0d05ec752ced74410f49 ""
-  "sections/experience.tex" 1697560131 2817 28959d72e9fcf307be9985af73221dee ""
-  "sections/projects.tex" 1697560176 1849 03fc1cdfbad5b2e3cda4c2b8321e983e ""
-  "sections/skills.tex" 1697559875 470 02e342476cdc0330ceb6f8f5476d1969 ""
+  "sections/experience.tex" 1697823911 2744 d69f3fbf27446002dbecc80403a5993d ""
+  "sections/projects.tex" 1697560331 1849 03fc1cdfbad5b2e3cda4c2b8321e983e ""
+  "sections/skills.tex" 1697823503 470 02e342476cdc0330ceb6f8f5476d1969 ""
   (generated)
   "resume.aux"
   "resume.log"

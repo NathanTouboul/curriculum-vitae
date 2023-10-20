@@ -1031,6 +1031,8 @@ INPUT sections\experience.tex
 INPUT sections\experience.tex
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\tex\latex\sourcesanspro\ts1sourcesanspro-tlf.fd
@@ -1056,7 +1058,6 @@ INPUT .\sections\education.tex
 INPUT sections\education.tex
 INPUT sections\education.tex
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-t1.tfm
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
@@ -1075,14 +1076,16 @@ INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.vf
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1--base.tfm
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.vf
+INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Regular-tlf-ts1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-Semibold-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1--base.tfm
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-It-tlf-t1.vf
-INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-It-tlf-t1--base.tfm
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\vf\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1.vf
 INPUT C:\Users\natha\AppData\Local\Programs\MiKTeX\fonts\tfm\adobe\sourcesanspro\SourceSansPro-SemiboldIt-tlf-t1--base.tfm
 INPUT resume.aux
