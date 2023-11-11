@@ -35,16 +35,17 @@
 %	CV TITLE
 \newcommand{\cvtitle}[1]{
 	\begin{center}
-% 		{\fontsize{24}{0}\selectfont
-% 			\texttt{\@firstname \ {\color{black}{\@lastname}} }
-% % 			\textcolor{red}{\cvContactSep \textbf{#1}}
-%         }
-			% \\
-		{\fontsize{12}{0}\selectfont
+		% {
+		% 	\fontsize{24}{0}\selectfont
+		% 	\texttt{\@firstname \ {\color{black}{\@lastname}} }
+ 		% 	\textcolor{red}{\cvContactSep \textbf{#1}}
+        % }
+		{
+			\fontsize{10}{0}\selectfont
 			\textcolor{black}{\faIcon{envelope} \@mail}
-			\cvContactSpace \href{\@github}{\faIcon{github} GitHub}
-			\cvContactSpace \href{\@linkedin}{\faIcon{linkedin} LinkedIn}
-			\cvContactSpace \href{\@blog}{\faIcon{globe} Portfolio}
+			\cvContactSpace \href{\@blog}{\faIcon{globe} nathantouboul.com}
+			\cvContactSpace \href{\@github}{\faIcon{github} /NathanTouboul}
+			\cvContactSpace \href{\@linkedin}{\faIcon{linkedin} /nathantouboul}
 			\cvContactSpace \textcolor{black}{\faIcon{phone} \@mobile}
 			% \\~{\Large \\~\\}
             
