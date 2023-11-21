@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1700598963 "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1700598965 0
+["pdflatex"] 1700599516 "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" "resume.pdf" "resume" 1700599518 0
   "C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1674946020 161703 3556a13c17bf8612ec1d0ed0997c0630 ""
   "C:/Users/natha/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1674945970 23173809 a5fcca6a781e29d61e383ef5fa826ec0 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc" 1651496629 2920 d63721872b8c77041b88e51b8f7c291d ""
@@ -144,14 +144,14 @@
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656233290 56148 51a9a8571c07b9921892ae11063ae853 ""
   "C:/Users/natha/AppData/Local/Programs/MiKTeX/tex/latex/xkeyval/xkeyval.sty" 1656233319 4937 4ce600ce9bd4ec84d0250eb6892fcf4f ""
   "c:/Users/natha/Documents/Work/Programming/Projects/Private/curriculum-vitae/resume.tex" 1700598610 1369 95ee9c135237524dfceb3b5097aac6ca ""
-  "resume.aux" 1700598965 2738 62de8e1ad795f3e3c39a21f82a985758 "pdflatex"
-  "resume.out" 1700598965 3921 a87a89489a9f75faa8c6dc2cb1d97cd2 "pdflatex"
+  "resume.aux" 1700599517 2738 62de8e1ad795f3e3c39a21f82a985758 "pdflatex"
+  "resume.out" 1700599517 3921 a87a89489a9f75faa8c6dc2cb1d97cd2 "pdflatex"
   "resume.tex" 1700598610 1369 95ee9c135237524dfceb3b5097aac6ca ""
   "sections/TLCresume.sty" 1699726997 3122 64ce9ca7ec6daa9897c95c6d8a3a80b7 ""
   "sections/education.tex" 1700598686 988 7a6093272a398d7e4424a387154771ce ""
   "sections/experience.tex" 1700598948 2743 f6bcbe9e18d3c2bee639cb0618680062 ""
   "sections/projects.tex" 1700598883 1861 812d03ef069be79b22a31781620f44d0 ""
-  "sections/skills.tex" 1700425086 470 02e342476cdc0330ceb6f8f5476d1969 ""
+  "sections/skills.tex" 1700599477 487 0b128a8b7122cd4e639942e07a8c5453 ""
   (generated)
   "resume.aux"
   "resume.log"
