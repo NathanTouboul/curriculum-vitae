@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.28)  11 NOV 2023 10:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=pdflatex 2023.1.28)  21 NOV 2023 12:36
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -703,16 +703,11 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\hfill' on input line 35.
 
-) (sections/projects.tex
-Underfull \hbox (badness 10000) in paragraph at lines 8--11
-
- []
-
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
-(Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 15.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
-(Font)              scaled to size 10.0pt on input line 15.
 ) (sections/education.tex
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
+(Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 7.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
+(Font)              scaled to size 10.0pt on input line 7.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/regular/n' on input line 9.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
@@ -721,11 +716,11 @@ LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/sb/it' aliased to
 (Font)              `T1/SourceSansPro-TLF/semibold/it' on input line 10.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/semibold/it' will be
 (Font)              scaled to size 9.0pt on input line 10.
-) [1
+) (sections/projects.tex) [1
 
 {C:/Users/natha/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (resume.aux)
 Package rerunfilecheck Info: File `resume.out' has not changed.
-(rerunfilecheck)             Checksum: E992AA6D3A1A28B3FAF712357CBAD540;3921.
+(rerunfilecheck)             Checksum: A87A89489A9F75FAA8C6DC2CB1D97CD2;3921.
  ) 
 Here is how much of TeX's memory you used:
  17803 strings out of 476378
@@ -734,9 +729,9 @@ Here is how much of TeX's memory you used:
  37859 multiletter control sequences out of 15000+600000
  646923 words of font info for 64 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 140i,8n,134p,1271b,554s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 140i,8n,134p,1271b,556s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_5ponh6.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/sourcesanspro/a_4jropk.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5brands0.enc}{C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}<C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Brands-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-It.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-Semibold.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/adobe/sourcesanspro/SourceSansPro-SemiboldIt.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/natha/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb>
-Output written on resume.pdf (1 page, 276615 bytes).
+Output written on resume.pdf (1 page, 276592 bytes).
 PDF statistics:
  126 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
